@@ -1,0 +1,4 @@
+/target
+
+postgresql/volume/data
+.env
